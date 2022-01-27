@@ -1,7 +1,7 @@
 ### Hello! I'm David, Backend developer at SESAME HR
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joorgi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidvict&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joorgi&layout=compact&langs_count=16&theme=dark" />
 </div>
 
